@@ -1,0 +1,6 @@
+div p{
+    display: inline-block;
+}
+span{
+    border: black 1px solid;
+}
